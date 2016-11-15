@@ -1,0 +1,202 @@
+
+h1, h2, h3, h4, h5, p {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #01abe8;
+    font-family: arial, sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+
+    width: 1026px;
+
+}
+
+#logo {
+    padding: 10px;
+    clear: both;
+    padding-left: 0;
+}
+
+#header {
+    margin: 0 auto;
+}
+
+#logo i {
+    font-size: 11px;
+    font-style: normal;
+    color: #fff;
+    letter-spacing: 1px;
+    font-weight: 800;
+}
+
+#logo img {
+    float: left;
+
+}
+
+#logo p {
+    font-size: 8px;
+    padding: 3px;
+    text-decoration: none;
+    position: relative;
+    right: -1px;
+    width: 225px;
+    letter-spacing: 1.5px;
+    color: #fff;
+}
+
+.selection h3 {
+    text-align: center;
+    padding-top: 27px;
+    color: black;
+}
+
+#log-center {
+    float: left;
+    padding-top: 15px;
+}
+
+#log-center h3, h3 > a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+#log-right {
+    float: left;
+    margin-left: 172px;
+    padding-top: 10px;
+    width: 239px;
+}
+
+
+
+.hover:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: 0.5s;
+}
+
+/* центральный контент */
+
+.section {
+    margin: 0 auto;
+    width: 1026px;
+    height: 500px;
+    background: #e5f8ff;
+    position: relative;
+}
+
+#regim {
+    position: absolute;
+    top: -17px;
+    left: -182px;
+}
+
+#regim a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+
+}
+
+#regim li {
+    list-style-type: none;
+    padding: 5px 10px 5px 5px;
+    margin-bottom: 8px;
+}
+
+#regim li:hover {
+    background: #34bced;
+    cursor: pointer;
+}
+
+#co2 {
+    font-size: 12px;
+}
+
+/* 2015 -2016 **********************************/
+#contant i {
+    font-size: 25px;
+    padding-left: 20px;
+    float: left;
+    margin-top: 30px;
+    font-style: normal;
+}
+
+.crug {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: #05a4e1;
+    float: left;
+    margin: 10px;
+    margin-top: 15px;
+}
+
+.crug-2 {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: #ef6b01;
+    float: left;
+    margin: 10px;
+    margin-top: 15px;
+}
+
+.crug:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.crug-2:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.crug i {
+    font-size: 14px;
+    color: #fff;
+    font-style: none;
+    position: relative;
+    top: 19px;
+    left: 11px;
+    font-style: normal;
+}
+
+.crug-2 i {
+    font-size: 14px;
+    color: #fff;
+    font-style: none;
+    position: relative;
+    top: 19px;
+    left: 11px;
+    font-style: normal;
+}
+
+#footer-section {
+    background: #2b5464;
+    width: 1026px;
+    height: 35px;
+    margin: 0 auto;
+}
+
+#footer {
+    height: 24px;
+
+    margin-top: 7px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    margin-right: 14px;
+}
+
+
